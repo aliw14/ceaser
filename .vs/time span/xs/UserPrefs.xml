@@ -1,11 +1,17 @@
 ﻿<Properties StartupConfiguration="{AFEEE2D9-04BD-43AD-A479-9B8A12ACAAEA}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="time span/ceaser.cs">
+  <MonoDevelop.Ide.ItemProperties.time_220span PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="time span/Program.cs">
     <Files>
-      <File FileName="time span/ceaser.cs" Line="8" Column="1" />
+      <File FileName="time span/Program.cs" Line="16" Column="52" />
+      <File FileName="time span/ceaser.cs" />
+      <File FileName="time span/sifrecoz.cs" Line="26" Column="21" />
       <File FileName="time span/timespann.cs" />
-      <File FileName="time span/Program.cs" Line="9" Column="53" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,9 +23,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.time_220span PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

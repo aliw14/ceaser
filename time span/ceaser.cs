@@ -12,12 +12,17 @@ namespace time_span
                 if (char.IsUpper(s[i]))
                 {
                     int b = (s[i] - 64 + k) % 26 + 64;
+                    if (b <= 64)
+                    b = b + 26;
                     result += (char)b;
+ 
                 }
                 else
                 {
-                    int b = (s[i] - 96 + k) % 26 + 96;
-                    result += (char)b;
+                    int c = (s[i] - 96 + k) % 26 + 96;
+                    if (c <= 96)
+                    c = c + 26;
+                    result += (char)c;
                 }
 
             }

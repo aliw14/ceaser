@@ -6,14 +6,14 @@ class Program
 
         #region Task1
 
-        Console.WriteLine(Ceaser.Ceaserr(1, "abc"));
+        Console.WriteLine(Ceaser.Ceaserr(26, "abc"));
         #endregion
 
         #region Task2
         //Console.WriteLine(Timespann.Timespan("13:09:21", "18:15:37"));
         #endregion
         #region Task 1 davami
-        Console.WriteLine(Sifrecoz.Sifrecozz(1, "bcd"));
+        Console.WriteLine(Sifrecoz.Sifrecozz(52, "a"));
         #endregion
     }
 
