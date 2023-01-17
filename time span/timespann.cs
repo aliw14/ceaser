@@ -19,6 +19,7 @@ namespace time_span
 			int m3 = m2 - m1;
 			int s3 = s2 - s1;
 			string result = $"0{h3}:0{m3}:{s3}";
+
 			return result;
         }		
 
