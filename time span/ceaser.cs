@@ -15,7 +15,6 @@ namespace time_span
                     if (b <= 64)
                     b = b + 26;
                     result += (char)b;
- 
                 }
                 else
                 {
@@ -28,9 +27,9 @@ namespace time_span
             }
                     return result;
 
-            
-             
-            
         }
     }
-}
+}             
+            
+        
+    
